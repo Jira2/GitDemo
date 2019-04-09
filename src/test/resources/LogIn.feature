@@ -18,3 +18,4 @@ When user enters "<product>" and enters Enter
 |T-Shirt|
 And Selects product and applies filter for brand "<name>"
 And gets the product attribute as size and color
+Then successfully done
